@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is a central, online archive where the current version of a project/codebase is stored. It can be accessed by each of the collaborators on a project and is the place that each collaborator will push project changes to. It holds a record of all the previous versions and changes made to it which can all easily be seen and downloaded. 
